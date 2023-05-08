@@ -1,2 +1,4 @@
 Tokyo
 Sendai
+Nagoya
+Osaka
